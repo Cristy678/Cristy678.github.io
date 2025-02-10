@@ -2,6 +2,11 @@ body {
 	text-align: center
 }
 
+h3 {
+	font-family: 'Montserrat', bold;
+	font-size: 32px;
+}
+
 h2 {
 	font-family: 'Kanit', bold;
 	font-size: 46px;
@@ -25,4 +30,9 @@ button {
 
 .line {
 	transform: translate(0px, -6px);
+}
+
+img { 
+    max-width: 100%; 
+    height: auto
 }
