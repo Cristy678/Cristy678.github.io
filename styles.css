@@ -1,0 +1,28 @@
+body {
+	text-align: center
+}
+
+h2 {
+	font-family: 'Kanit', bold;
+	font-size: 46px;
+	text-align: left;
+}
+
+h1 {
+	text-align: left
+}
+
+p {
+	font-family: 'Kanit', light;
+	font-size: 26px;
+}
+
+button {
+	background-color: white;
+	border: none;
+	text-align: justify
+}
+
+.line {
+	transform: translate(0px, -6px);
+}
